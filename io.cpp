@@ -18,7 +18,7 @@ int main() {
 
 
         if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age <=0)
-            std::cout << "Dude be real!" << std::endl;
+            std::cout << "Dude be for real!" << std::endl;
         else
             valid = true ; 
     }
