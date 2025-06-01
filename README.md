@@ -1,7 +1,7 @@
 # Valid Age Checker in C++
 
 ## Description
-This is a simple C++ program that prompts the user to enter their age and validates that the input is a numeric value between 1 and 99, with no extra characters. If the input does not meet these criteria, the program displays an error message (“Dude be real!”) and asks again until a valid age is entered. Once a valid number is provided, it outputs a confirmation message including the entered age.
+This is a simple C++ program that prompts the user to enter their age and validates that the input is a numeric value between 1 and 99, with no extra characters. If the input does not meet these criteria, the program displays an error message and asks again until a valid age is entered. Once a valid number is provided, it outputs a confirmation message including the entered age.
 
 ## Installation and Build
 1. Make sure you have a C++ compiler installed (for example, g++).  
