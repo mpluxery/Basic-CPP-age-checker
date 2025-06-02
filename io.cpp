@@ -18,12 +18,12 @@ int main() {
 
 
         if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age <=0)
-            std::cout << "Dude be for real!" << std::endl;
+            std::cout << "be for real!" << std::endl;
         else
             valid = true ; 
     }
 
-    std::cout << "Youer " << age << " years old, seems legit!" << std::endl;
+    std::cout << "You are " << age << " years old, seems legit!" << std::endl;
     return 0;
 }
 
