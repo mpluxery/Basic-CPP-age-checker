@@ -22,7 +22,7 @@ type a number between 1 and 99 and press Enter.
 
 If the input is invalid (non-numeric characters, numbers outside 1–99, or extra characters), the program will print:
 
-Dude be for real!
+be for real!
 and prompt again.
 
 Once a valid age is entered, you will see:
@@ -90,7 +90,7 @@ is >> age attempts to parse an integer; if this fails, the input is not a valid 
 
 The conditions age >= 100 || age <= 0 ensure the age is within the range [1, 99].
 
-If any validation step fails, the program prints “Dude be for real!” and repeats the prompt.
+If any validation step fails, the program prints “be for real!” and repeats the prompt.
 
 Successful Input
 
