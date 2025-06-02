@@ -57,7 +57,7 @@ int main()
         // 2. Check for any extra characters after the number.  
         // 3. Ensure age is between 1 and 99 (inclusive).
         if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age <= 0)
-            std::cout << "Dude be for real!" << std::endl;
+            std::cout << "be for real!" << std::endl;
         else
             valid = true;
     }
